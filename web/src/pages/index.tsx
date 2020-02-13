@@ -20,6 +20,7 @@ export const Pages: FC = () => {
           <NavItemLink to="/schools">Schools</NavItemLink>
         </Nav>
         <Nav className="ml-auto" navbar>
+          <NavItemLink to="/login">Login</NavItemLink>
           <NavItemLink to="/register">Register</NavItemLink>
         </Nav>
       </Navbar>
